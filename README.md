@@ -7,7 +7,7 @@ improved: saidfaisal
 
 # Image Analysis with Azure Computer Vision
 
-This repository contains a simple sample project to help you getting started with Azure storage using .NET as the development language and the repository is final project "Menjadi Azure Cloud Developer" from Dicoding.
+This repository contains a simple sample project to help you getting started with Azure storage using .NET as the development language and the repository is final project "Menjadi Azure Cloud Developer" of Dicoding.
 
 ## Prerequisites
 
