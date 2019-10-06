@@ -10,8 +10,6 @@ This repository contains a simple sample project to help you getting started wit
 
 ## Prerequisites
 
-To complete this tutorial:
-
 To complete this quickstart: 
 * Install [PHP](http://php.net/downloads.php)
 * Install [The Azure SDK for PHP](../../php-download-sdk.md)
