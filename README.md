@@ -1,8 +1,7 @@
 ---
-services: storage
-platforms: php
-author: roygara
-improved: saidfaisal
+Platforms: PHP
+Author: roygara
+Improved: saidfaisal
 ---
 
 # Image Analysis with Azure Computer Vision
